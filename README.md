@@ -10,8 +10,9 @@ PINK highlighted means interesting papers not available online.
 
 List of papers in topics: (without replacement, so each paper in the most revelant topic)
 
-*Decentralized SGD*: //
-A Unified Theory of Decentralized SGD with Changing Topology and Local Updates/ Adascale_sgd_a_scale_invariant_algorithm_for_distributed_training-Original Pdf/ Improving the Sample and Communication Complexity for Decentralized Non-Convex Optimization - A Joint Gradient Estimation and Tracking Approach/ Is Local SGD Better than Minibatch SGD/ On Convergence-Diagnostic based Step Sizes for Stochastic Gradient Descent/ On the Noisy Gradient Descent that Generalizes as SGD/ The_Complexity_of_Finding_Stationary_Points_with_Stochastic_Gradient_Descent/ 
+#Decentralized SGD#
++ A Unified Theory of Decentralized SGD with Changing Topology and Local Updates 
++ Adascale_sgd_a_scale_invariant_algorithm_for_distributed_training-Original Pdf/ Improving the Sample and Communication Complexity for Decentralized Non-Convex Optimization - A Joint Gradient Estimation and Tracking Approach/ Is Local SGD Better than Minibatch SGD/ On Convergence-Diagnostic based Step Sizes for Stochastic Gradient Descent/ On the Noisy Gradient Descent that Generalizes as SGD/ The_Complexity_of_Finding_Stationary_Points_with_Stochastic_Gradient_Descent/ 
 
 *Attacks*: Min-Max Optimization without Gradients - Convergence and Applications to Adversarial ML/ Second-Order Provable Defenses against Adversarial Attacks/ Zeno++
 
